@@ -8,6 +8,9 @@ Is there some library/module included although it shouldn't (because it works on
 
 
 ## UI component libraries
+
+[Super-jss](https://github.com/rsantoyo-dev/super-jss-workspace) — Super Javascript Stylesheets, built with angular signals, it is a dynamic Angular library for responsive and themable styles. Easily define styles with JSON, leverage a powerful responsive system, and customize themes on-the-fly, baser on material ui
+
 [material2](https://github.com/angular/material2) — Material Design components for Angular
 
 [OnsenUI](https://github.com/OnsenUI/OnsenUI) — Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js
